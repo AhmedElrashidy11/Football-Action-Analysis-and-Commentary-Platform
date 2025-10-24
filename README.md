@@ -5,7 +5,7 @@
 ## Team Members
 
 | # | Name | Email | Program | Role |
-|---|------|--------|----|---------|------|
+|---|------|--------|---------|------|
 | 1 | **Mohamed Alaa (Leader)** | mohamed.alaa.alnaggar@gmail.com | DSAI | Computer Vision & Action Detection Lead |
 | 2 | **Muhammad Kamal** | s-muhammad.muhammad@zewailcity.edu.eg | DSAI | AI System Integration & Coordination |
 | 3 | **Ahmed Mohammed** | ahmedelrshidy11@gmail.com | DSAI | NLP & Commentary Generation Specialist |
