@@ -136,7 +136,7 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ## GitHub Repository
 
-[👉 View Project Repository]([repo](https://github.com/AhmedElrashidy11/Football-Action-Analysis-and-Commentary-Platform))
+[👉 View Project Repository]((https://github.com/AhmedElrashidy11/Football-Action-Analysis-and-Commentary-Platform))
 
 ---
 
