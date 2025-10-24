@@ -1,23 +1,19 @@
 # ⚽ Football Action Analysis and Commentary Platform
 
 ### **Supervisor:** Dr. Mohamed Sami  
-**Semester / Year:** Fall 2025  
-**Date of Submission:** 25/10/2025  
 
----
+## Team Members
 
-## 👥 Team Members
-
-| # | Name | Email | ID | Program | Role |
+| # | Name | Email | Program | Role |
 |---|------|--------|----|---------|------|
-| 1 | **Mohamed Alaa (Leader)** | s-mohamed.ibarim@zewailcity.edu.eg | 202200980 | DSAI | Computer Vision & Action Detection Lead |
-| 2 | **Muhammad Kamal** | s-muhammad.muhammad@zewailcity.edu.eg | 202200899 | DSAI | AI System Integration & Coordination |
-| 3 | **Ahmed Mohamed** | s-ahmed.mahmoud@zewailcity.edu.eg | 202202168 | DSAI | NLP & Commentary Generation Specialist |
-| 4 | **Mahmoud Tarek** | s-mahmoud.tarek@zewailcity.edu.eg | 202202051 | DSAI | AI Interface & Performance Optimization |
+| 1 | **Mohamed Alaa (Leader)** | mohamed.alaa.alnaggar@gmail.com | DSAI | Computer Vision & Action Detection Lead |
+| 2 | **Muhammad Kamal** | s-muhammad.muhammad@zewailcity.edu.eg | DSAI | AI System Integration & Coordination |
+| 3 | **Ahmed Mohammed** | ahmedelrshidy11@gmail.com | DSAI | NLP & Commentary Generation Specialist |
+| 4 | **Mahmoud Tarek** | mahmoudtarek118@gmail.com | DSAI | AI Interface & Performance Optimization |
 
 ---
 
-## 🧠 Abstract
+## Abstract
 
 The main objective of this project is to develop an **AI-based system capable of generating real-time, realistic football commentary**.  
 The system will process live match data and automatically detect important actions—such as goals, passes, fouls, and substitutions—through intelligent computer vision and data analysis. It will then generate **natural, broadcaster-style commentary**, enriched with tactical insights and contextual details about players, teams, and tournaments.  
@@ -26,7 +22,7 @@ By combining **data-driven action recognition** with **natural language generati
 
 ---
 
-## ⚙️ Problem Statement & Motivation
+## Problem Statement & Motivation
 
 Many football fans miss live matches due to broadcasting restrictions, time differences, or limited access. This results in a lack of engagement and real-time connection to their favorite teams.  
 
@@ -34,7 +30,7 @@ This project aims to address that gap by developing an **AI-powered commentary s
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 The system identifies and evaluates football match events and generates descriptive, human-like commentary using AI-based models for **action recognition** and **language generation**.
 
@@ -46,7 +42,7 @@ The system identifies and evaluates football match events and generates descript
 
 ---
 
-## 🎯 Project Scope
+## Project Scope
 
 The system focuses on **football (soccer)** and aims to detect and describe major in-game actions to simulate a live commentary experience.
 
@@ -76,7 +72,7 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ---
 
-## 🕓 High-Level Timeline
+## High-Level Timeline
 
 | Phase | Description | Duration | Deliverables |
 |-------|--------------|-----------|---------------|
@@ -87,7 +83,7 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ---
 
-## 🧩 Technology Stack & Theoretical Basis
+## Technology Stack & Theoretical Basis
 
 | Category | Technologies / Tools | Purpose |
 |-----------|----------------------|----------|
@@ -100,7 +96,7 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ---
 
-## 📊 Success Metrics & Evaluation Plan
+## Success Metrics & Evaluation Plan
 
 ### **1. Performance Metrics**
 - **Processing Speed:** Average time to detect and describe actions.  
@@ -127,24 +123,24 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ---
 
-## 👨‍💻 Team Roles & Responsibilities
+## Team Roles & Responsibilities
 
 | Member | Role | Key Contributions |
 |---------|------|-------------------|
 | **Mohamed Alaa** | Computer Vision & Action Detection Lead | Develops and trains deep learning models for detecting football events using OpenCV and CNN/YOLO architectures. |
 | **Muhammad Kamal** | AI System Integration & Coordination | Leads integration between CV and NLP modules; ensures synchronization and system deployment. |
-| **Ahmed Mohamed** | NLP & Commentary Generation Specialist | Builds Transformer-based NLG models for generating human-like commentary. |
+| **Ahmed Mohammed** | NLP & Commentary Generation Specialist | Builds Transformer-based NLG models for generating human-like commentary. |
 | **Mahmoud Tarek** | AI Interface & Performance Optimization | Designs and implements real-time UI; optimizes performance and system responsiveness. |
 
 ---
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
-[👉 View Project Repository](repo)
+[👉 View Project Repository]([repo](https://github.com/AhmedElrashidy11/Football-Action-Analysis-and-Commentary-Platform))
 
 ---
 
-## 📚 References
+## References
 
 1. S. Giancola, M. Amine, T. Dghaily, and B. Ghanem, “**SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos**,” *Proc. IEEE/CVF CVPR Workshops*, 2018.  
 2. “**Data – SoccerNet**,” *Soccer-Net.org*, [Online]. Available: [https://www.soccer-net.org/data](https://www.soccer-net.org/data) (Accessed: Oct. 24, 2025).
