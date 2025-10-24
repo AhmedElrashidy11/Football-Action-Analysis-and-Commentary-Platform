@@ -134,12 +134,6 @@ The system focuses on **football (soccer)** and aims to detect and describe majo
 
 ---
 
-## GitHub Repository
-
-[👉 View Project Repository]((https://github.com/AhmedElrashidy11/Football-Action-Analysis-and-Commentary-Platform))
-
----
-
 ## References
 
 1. S. Giancola, M. Amine, T. Dghaily, and B. Ghanem, “**SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos**,” *Proc. IEEE/CVF CVPR Workshops*, 2018.  
